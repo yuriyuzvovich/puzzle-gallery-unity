@@ -1,0 +1,18 @@
+{
+    "name": "PuzzleGallery.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6b25bc78aca7ab04799faccf939d724c"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2aef565c42f1f841830882f3ca0d46e, type: 3}
+  m_Name: AppConfig
+  m_EditorClassIdentifier: 
+  _bootstrapperScene: Bootstrapper
+  _menuScene: Menu
+  _galleryConfig: {fileID: 11400000, guid: 73c175058fdbfac4cb4ed9bffe660317, type: 2}
+  _carouselConfig: {fileID: 11400000, guid: 572bafc5c7004e54ea5d5f8c27190a03, type: 2}
+  _screenConfig: {fileID: 11400000, guid: 889944d627e1a304285b402ee178c014, type: 2}
+  _remoteImageConfig: {fileID: 11400000, guid: 704e402f6c382de40a7ab9dedacdd075, type: 2}
+  _premiumPopupConfig: {fileID: 11400000, guid: 8b40697c53d9b83409262cd9d5301d48, type: 2}
+  _logsConfig: {fileID: 11400000, guid: 0f341f4d78aeecc46853df996ea62626, type: 2}
+  _puzzleViewAddress: PuzzleView
+  _splashFadeDuration: 0.5
+  _assetsToPreload: []

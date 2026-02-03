@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 285409397d645864290726d5eeaf69a3, type: 3}
+  m_Name: GalleryConfig
+  m_EditorClassIdentifier: 
+  _baseUrl: https://yuriyuzvovich.github.io/portfoliosite/images/unity-pics/
+  _totalImages: 66
+  _premiumInterval: 4
+  _protocolStrategy: 3
+  _allowInsecureConnections: 1
+  _bypassCertificateValidation: 1
+  _cellHeight: 200
+  _cellSpacing: 24
+  _padding: 24
+  _initialPreloadCount: 12

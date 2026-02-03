@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be59d5664ba2e5046a01cc19388f617d, type: 3}
+  m_Name: TabBarLayoutConfig
+  m_EditorClassIdentifier: 
+  _phone:
+    TabSpacing: 4
+    EdgePadding: 0
+    IndicatorHeightRatio: 0.08
+    IndicatorBottomOffsetRatio: 0
+    DividerWidth: 2
+    DividerVerticalPadding: 8
+  _tablet:
+    TabSpacing: 0
+    EdgePadding: 0
+    IndicatorHeightRatio: 0.08
+    IndicatorBottomOffsetRatio: 0
+    DividerWidth: 3
+    DividerVerticalPadding: 8
