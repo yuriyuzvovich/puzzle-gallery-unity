@@ -1,5 +1,7 @@
 # Puzzle Gallery
 
+![simple-art_screen-record](https://github.com/user-attachments/assets/975d8088-754f-4607-aea9-e711406a7123)
+
 [![Unity Version](https://img.shields.io/badge/Unity-2022.3.62f3%20LTS-blue)](https://unity.com)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green)](https://unity.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
